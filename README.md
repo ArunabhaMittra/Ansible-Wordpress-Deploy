@@ -196,4 +196,4 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2021 by [Arunabha Mittra]
+This role was created in 2021 by Arunabha Mittra
