@@ -1,6 +1,6 @@
 # Ansible Role: MySQL
 
-[![CI](https://github.com/geerlingguy/ansible-role-mysql/workflows/CI/badge.svg?event=push)](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
+[![CI]()](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
 
 Installs and configures MySQL or MariaDB server on RHEL/CentOS or Debian/Ubuntu servers.
 
@@ -10,7 +10,7 @@ No special requirements; note that this role requires root access, so either run
 
     - hosts: database
       roles:
-        - role: geerlingguy.mysql
+        - role: arunabhawp.mysql
           become: yes
 
 ## Role Variables
