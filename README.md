@@ -1,4 +1,4 @@
-# Ansible Role: Wordpress Stack
+# Ansible Role: Deploy Wordpress Stack
 
 [![CI](https://github.com/geerlingguy/ansible-role-mysql/workflows/CI/badge.svg?event=push)](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
 
