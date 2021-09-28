@@ -1,8 +1,8 @@
-# Ansible Role: MySQL
+# Ansible Role: Wordpress Stack
 
 [![CI](https://github.com/geerlingguy/ansible-role-mysql/workflows/CI/badge.svg?event=push)](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
 
-Installs and configures MySQL or MariaDB server on RHEL/CentOS or Debian/Ubuntu servers.
+Installs and configures MySQL or MariaDB server Apache, PHP and all other packages required to deploy a wordpress site on RHEL/CentOS or Debian/Ubuntu servers.
 
 ## Requirements
 
