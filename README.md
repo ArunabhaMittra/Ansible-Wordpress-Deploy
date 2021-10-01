@@ -1,5 +1,7 @@
 # Ansible Role: Deploy Wordpress Stack
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAnsible_logo.svg&psig=AOvVaw3xgGNCYdF-dfg77rGgsmYg&ust=1633186141846000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNC2tNW6qfMCFQAAAAAdAAAAABAD)
+
 [![CI](https://github.com/geerlingguy/ansible-role-mysql/workflows/CI/badge.svg?event=push)](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
 
 Installs and configures MySQL or MariaDB server Apache, PHP and all other packages required to deploy a wordpress site on RHEL/CentOS or Debian/Ubuntu servers.
