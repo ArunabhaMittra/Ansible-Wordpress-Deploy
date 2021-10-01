@@ -1,6 +1,7 @@
 # Ansible Role: Deploy Wordpress Stack
 
-![alt text](https://w7.pngwing.com/pngs/801/466/png-transparent-ansible-devops-puppet-chef-configuration-management-becoming-a-chef-angle-text-trademark.png)
+![alt text]()
+<a href="url"><img src="https://w7.pngwing.com/pngs/801/466/png-transparent-ansible-devops-puppet-chef-configuration-management-becoming-a-chef-angle-text-trademark.png" align="center" height="48" width="48" ></a>
 
 [![CI](https://github.com/geerlingguy/ansible-role-mysql/workflows/CI/badge.svg?event=push)](https://github.com/ArunabhaMittra/Ansible-Wordpress-Deploy/actions)
 
